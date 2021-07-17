@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @easonyeh1223
 - 👀 I’m interested in coding Python and C++.
 - 🌱 I’m currently learning to code JS.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : you can reach me on finding my hackmd account "Eason Yeh".
 
 <!---
